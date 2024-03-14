@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "1095947639068",
+    "project_id": "newsquest-96fee",
+    "storage_bucket": "newsquest-96fee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095947639068:android:cad89a7a21f4a75c3682d9",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095947639068-9b8h9vags2inmtdison8dap3b68km3r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCifN1wQcOiYUL0qMjwwYOCVxAV0TZetws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095947639068-9b8h9vags2inmtdison8dap3b68km3r1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1095947639068-24u874k83gkhg7vsuf1am12l1obgiton.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.evSimulator"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095947639068:android:dae3cdfd2c75bfa73682d9",
+        "android_client_info": {
+          "package_name": "com.example.ev_simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095947639068-9b8h9vags2inmtdison8dap3b68km3r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCifN1wQcOiYUL0qMjwwYOCVxAV0TZetws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095947639068-9b8h9vags2inmtdison8dap3b68km3r1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1095947639068-24u874k83gkhg7vsuf1am12l1obgiton.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.evSimulator"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095947639068:android:15b4c09e572299d03682d9",
+        "android_client_info": {
+          "package_name": "com.example.newsquest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095947639068-9b8h9vags2inmtdison8dap3b68km3r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCifN1wQcOiYUL0qMjwwYOCVxAV0TZetws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095947639068-9b8h9vags2inmtdison8dap3b68km3r1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1095947639068-24u874k83gkhg7vsuf1am12l1obgiton.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.evSimulator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
